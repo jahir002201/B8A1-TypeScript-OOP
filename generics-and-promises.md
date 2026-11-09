@@ -43,7 +43,7 @@ getFirstItem<string>(["React", "Django" "Laravel", "TypeScript"]);
 
 ## Generics-এর সঙ্গে Promise<T>
 
-Promise হলো JavaScript এর একটি Feature যা async Operation এর ভবিষ্যতে পাওয়া Result নির্দেশ করে। TypeScript এ `Promise<T>` ব্যবহার করে Promise সফলভাবে সম্পন্ন হলে কী ধরনের Value Return করবে তা নির্ধারণ করা যায়।
+Promise হলো JavaScript এর একটি Feature যা async Operation এর পাওয়া Result নির্দেশ করে। TypeScript এ `Promise<T>` ব্যবহার করে Promise সফলভাবে সম্পন্ন হলে কী ধরনের Value Return করবে তা নির্ধারণ করা যায়।
 
 উদাহরণ:
 

@@ -17,7 +17,7 @@ Assignment 1: Problem Solving with TypeScript & OOP.
 
 ## Blog Posts
 
-1. [Type Alias vs Interface](./type-vs-interface.md)
+1. [Type vs Interface](./type-vs-interface.md)
 2. [Generics and Promises](./generics-and-promises.md)
 
 ## Project Structure
